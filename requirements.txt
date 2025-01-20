@@ -1,0 +1,6 @@
+phidata
+groq
+Yfinance
+duckduckgo-search
+google-generativeai
+portkey-ai
