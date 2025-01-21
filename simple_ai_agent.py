@@ -37,4 +37,5 @@ agent_team = Agent(
     markdown=True,
 )
 
-agent_team.print_response("Summarize analyst recommendations and share the latest news for NVDA", stream=True)
+query = input()
+agent_team.print_response(query, stream=True)
