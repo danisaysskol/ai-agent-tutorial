@@ -12,7 +12,7 @@ This project demonstrates the implementation of AI agents using the `phi` librar
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/ai-agent-project.git
+git clone https://github.com/danisaysskol/ai-agent-tutorial.git
 cd ai-agent-project
 ```
 
